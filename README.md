@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Harsh and I'm a full stack developer from Delhi, India</h2>
+### Hi 👋! My name is Harsh and I'm a full stack developer from Delhi, India
 - 🌱 I'm currently learning everything 👾
 - 👯 I’m looking to collaborate with other open source enthusiasts on some 😎cool projects
 - 🥅 2024 Goals: Learn more about devops
@@ -8,7 +8,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhoenixOutlaw&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=PhoenixOutlaw&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PhoenixOutlaw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
