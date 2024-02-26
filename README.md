@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Harsh and I'm a full stack developer from Delhi, India</h2>
+### Hi 👋! My name is Harsh and I'm a full stack developer from Delhi, India
 - 🌱 I'm currently learning everything 👾
 - 👯 I’m looking to collaborate with other open source enthusiasts on some 😎cool projects
 - 🥅 2024 Goals: Learn more about devops
